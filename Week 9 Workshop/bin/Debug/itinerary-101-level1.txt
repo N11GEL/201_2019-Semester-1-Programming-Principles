@@ -1,0 +1,120 @@
+Reading input from mail-101.txt
+Optimising tour length: Level 1...
+Elapsed time: 0.0012 seconds.
+Tour time: 20 Hours 56 Minutes.
+Tour length: 2141.69
+AusPost ->   OMN 11:00 11:11
+OMN   ->   IDN 11:11 11:21
+IDN   ->   NAM 11:21 11:34
+NAM   ->   POL 11:34 11:45
+POL   ->   MDG 11:45 11:55
+MDG   ->   GBR 11:55 12:08
+GBR   ->   ESP 12:08 12:21
+***refuel 8 minutes ***
+ESP   ->   TUR 12:29 12:39
+TUR   ->   CPV 12:39 12:51
+CPV   ->   MLI 12:51 13:02
+MLI   ->   VUT 13:02 13:17
+VUT   ->   MNG 13:17 13:26
+MNG   ->   TCD 13:26 13:44
+***refuel 8 minutes ***
+TCD   ->   GAB 13:52 14:09
+GAB   ->   TKM 14:09 14:20
+TKM   ->   MYS 14:20 14:32
+MYS   ->   BRB 14:32 14:48
+BRB   ->   BIH 14:48 15:01
+BIH   ->   HTI 15:01 15:17
+***refuel 8 minutes ***
+HTI   ->   CAF 15:25 15:41
+CAF   ->   BTN 15:41 15:53
+BTN   ->   LIE 15:53 16:03
+LIE   ->   ECU 16:03 16:14
+ECU   ->   SAU 16:14 16:28
+SAU   ->   MUS 16:28 16:39
+MUS   ->   MRT 16:39 16:48
+MRT   ->   MEX 16:48 16:57
+***refuel 8 minutes ***
+MEX   ->   NIC 17:05 17:16
+NIC   ->   MWI 17:16 17:28
+MWI   ->   SRB 17:28 17:40
+SRB   ->   MMR 17:40 17:53
+MMR   ->   VEN 17:53 18:02
+VEN   ->   EGY 18:02 18:13
+EGY   ->   NPL 18:13 18:25
+***refuel 8 minutes ***
+NPL   ->   COD 18:33 18:48
+COD   ->   SLE 18:48 19:03
+SLE   ->   BRA 19:03 19:18
+BRA   ->   LUX 19:18 19:30
+LUX   ->   TTO 19:30 19:43
+TTO   ->   EST 19:43 19:54
+***refuel 8 minutes ***
+EST   ->   LKA 20:02 20:11
+LKA   ->   JPN 20:11 20:19
+JPN   ->   SEN 20:19 20:27
+SEN   ->   PHL 20:27 20:33
+PHL   ->   SYR 20:33 20:41
+SYR   ->   AFG 20:41 20:49
+AFG   ->   PER 20:49 20:57
+PER   ->   RUS 20:57 21:05
+RUS   ->   TLS 21:05 21:13
+TLS   ->   BLZ 21:13 21:20
+BLZ   ->   AGO 21:20 21:29
+***refuel 8 minutes ***
+AGO   ->   CUB 21:37 21:46
+CUB   ->   ISR 21:46 21:55
+ISR   ->   PLW 21:55 22:05
+PLW   ->   BLR 22:05 22:17
+BLR   ->   BGD 22:17 22:26
+BGD   ->   HUN 22:26 22:36
+HUN   ->   LTU 22:36 22:46
+LTU   ->   SVN 22:46 22:57
+***refuel 8 minutes ***
+SVN   ->   BRN 23:05 23:18
+BRN   ->   LSO 23:18 23:28
+LSO   ->   LBR 23:28 23:43
+LBR   ->   CIV 23:43 23:52
+CIV   ->   BHR 23:52 00:07
+BHR   ->   GMB 00:07 00:23
+***refuel 8 minutes ***
+GMB   ->   ETH 00:31 00:45
+ETH   ->   ARE 00:45 00:56
+ARE   ->   AUT 00:56 01:05
+AUT   ->   PRY 01:05 01:13
+PRY   ->   AZE 01:13 01:21
+AZE   ->   IND 01:21 01:29
+IND   ->   BEN 01:29 01:37
+BEN   ->   PAN 01:37 01:51
+***refuel 8 minutes ***
+PAN   ->   DZA 01:59 02:13
+DZA   ->   MDA 02:13 02:21
+MDA   ->   RWA 02:21 02:37
+RWA   ->   ATG 02:37 02:48
+ATG   ->   JAM 02:48 03:06
+JAM   ->   IRL 03:06 03:22
+***refuel 8 minutes ***
+IRL   ->   MAR 03:30 03:41
+MAR   ->   SDN 03:41 03:52
+SDN   ->   CHL 03:52 03:59
+CHL   ->   BHS 03:59 04:09
+BHS   ->   GEO 04:09 04:17
+GEO   ->   COG 04:17 04:25
+COG   ->   TGO 04:25 04:35
+TGO   ->   LBY 04:35 04:43
+LBY   ->   NER 04:43 04:54
+***refuel 8 minutes ***
+NER   ->   SOM 05:02 05:12
+SOM   ->   GUY 05:12 05:26
+GUY   ->   DNK 05:26 05:42
+DNK   ->   MKD 05:42 05:59
+MKD   ->   DOM 05:59 06:12
+DOM   ->   GRC 06:12 06:24
+***refuel 8 minutes ***
+GRC   ->   PAK 06:32 06:43
+PAK   ->   KGZ 06:43 06:55
+KGZ   ->   SLV 06:55 07:10
+SLV   ->   UZB 07:10 07:24
+UZB   ->   ISL 07:24 07:34
+ISL   ->   TZA 07:34 07:47
+TZA   -> AusPost 07:47 07:56
+Saving itinerary to itinerary-101-level1.txt
